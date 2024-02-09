@@ -2,15 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Crowdfunding app is a platform that allows individuals or businesses to raise funds for their projects, ideas, or causes by collecting small amounts of money from a large number of people, often through online transactions. These apps typically provide a way for creators to present their projects, set funding goals, and offer various incentives or rewards to backers who contribute
